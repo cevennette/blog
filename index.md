@@ -1,6 +1,8 @@
-## Bienvenue sur la gazette de Cévennette !
+---
+title: "La Gazette de Cévennette"
+---
 
-Nous posterons ici des nouvelles de nos développements, expérimentations et peut-être des photos de vacances en camp naturiste !
+Nous postons ici des nouvelles de nos développements, expérimentations et peut-être des photos de vacances en camp naturiste !
 
 ### Markdown
 
